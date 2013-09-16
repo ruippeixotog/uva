@@ -1,6 +1,6 @@
-# Solutions to [UVa Online Judge][1] problems
+# Solutions to UVa Online Judge problems
 
-This repository contains solutions to UVa Online Judge problems, available at [http://uva.onlinejudge.org/][1]. These solutions are provided "as is". I give no guarantees that they will work as expected.
+This repository contains solutions to [UVa Online Judge][1] problems, available at [http://uva.onlinejudge.org][1]. These solutions are provided "as is". I give no guarantees that they will work as expected.
 
 ## Instructions
 
@@ -28,5 +28,20 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [The 3n + 1 problem][100] (`100`)
 
-[1]: http://uva.onlinejudge.org/
+#### Volume 2
+
+* ✓ [TEX Quotes][272] (`272`)
+
+#### Volume 3
+
+* ✓ [Mapmaker][394] (`394`)
+
+#### Volume 4
+
+* ✓ [Word Scramble][483] (`483`)
+
+[1]: http://uva.onlinejudge.org
 [100]: http://uva.onlinejudge.org/external/1/100.html
+[272]: http://uva.onlinejudge.org/external/2/272.html
+[394]: http://uva.onlinejudge.org/external/3/394.html
+[483]: http://uva.onlinejudge.org/external/4/483.html
