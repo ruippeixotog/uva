@@ -40,8 +40,23 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Word Scramble][483] (`483`)
 
+#### Volume 5
+
+* ✓ [The Snail][573] (`573`)
+
+#### Volume 6
+
+* ✓ [Blowing Fuses][661] (`661`)
+
+#### Volume 7
+
+* ✗ [Soundex Indexing][739] (`739`)
+
 [1]: http://uva.onlinejudge.org
 [100]: http://uva.onlinejudge.org/external/1/100.html
 [272]: http://uva.onlinejudge.org/external/2/272.html
 [394]: http://uva.onlinejudge.org/external/3/394.html
 [483]: http://uva.onlinejudge.org/external/4/483.html
+[573]: http://uva.onlinejudge.org/external/5/573.html
+[661]: http://uva.onlinejudge.org/external/6/661.html
+[739]: http://uva.onlinejudge.org/external/7/739.html
