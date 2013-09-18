@@ -50,7 +50,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 7
 
-* ✗ [Soundex Indexing][739] (`739`)
+* ✓ [Soundex Indexing][739] (`739`)
 
 [1]: http://uva.onlinejudge.org
 [100]: http://uva.onlinejudge.org/external/1/100.html
