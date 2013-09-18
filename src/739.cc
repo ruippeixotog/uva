@@ -25,7 +25,6 @@ int main() {
 
   string name;
   while(getline(cin, name)) {
-    name.erase(name.end() - 1);
     cout << spaces(9) << name << spaces(25 - name.length()) << name[0];
 
     vector<int> codes;
