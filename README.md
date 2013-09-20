@@ -52,6 +52,20 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Soundex Indexing][739] (`739`)
 
+#### Volume 8
+
+* ✓ [Light and Transparencies][837] (`837`)
+
+#### Volume 9
+
+* ✓ [Permutations][941] (`941`)
+
+### Contest Volumes
+
+#### Volume 100
+
+* ✗ [WERTYU][10082] (`10082`)
+
 [1]: http://uva.onlinejudge.org
 [100]: http://uva.onlinejudge.org/external/1/100.html
 [272]: http://uva.onlinejudge.org/external/2/272.html
@@ -60,3 +74,6 @@ The following is the list of the problems solved. Each problem id is specified b
 [573]: http://uva.onlinejudge.org/external/5/573.html
 [661]: http://uva.onlinejudge.org/external/6/661.html
 [739]: http://uva.onlinejudge.org/external/7/739.html
+[837]: http://uva.onlinejudge.org/external/8/837.html
+[941]: http://uva.onlinejudge.org/external/9/941.html
+[10082]: http://uva.onlinejudge.org/external/100/10082.html
