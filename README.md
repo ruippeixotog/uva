@@ -70,6 +70,10 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Request for Proposal][10141] (`10141`)
 
+#### Volume 102
+
+* ✓ [Average Speed][10281] (`10281`)
+
 [1]: http://uva.onlinejudge.org
 [100]: http://uva.onlinejudge.org/external/1/100.html
 [272]: http://uva.onlinejudge.org/external/2/272.html
@@ -82,3 +86,4 @@ The following is the list of the problems solved. Each problem id is specified b
 [941]: http://uva.onlinejudge.org/external/9/941.html
 [10082]: http://uva.onlinejudge.org/external/100/10082.html
 [10141]: http://uva.onlinejudge.org/external/101/10141.html
+[10281]: http://uva.onlinejudge.org/external/102/10281.html
