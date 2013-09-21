@@ -25,12 +25,12 @@ map<char, char> createTransform() {
 
 int main() {
   string line;
-  getline(cin, line);
-
-  map<char, char> transform = createTransform();
-  for(uint i = 0; i < line.length(); i++) {
-    line[i] = transform[line[i]];
+  while(getline(cin, line)) {
+    map<char, char> transform = createTransform();
+    for(uint i = 0; i < line.length(); i++) {
+      line[i] = transform[line[i]];
+    }
+    cout << line << endl;
   }
-  cout << line << endl;
   return 0;
 }
