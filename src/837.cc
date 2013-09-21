@@ -28,7 +28,7 @@ int main() {
       events.insert(pair<double, int>(max(x1, x2), -i));
     }
 
-    printf("%d\n", events.size() + 1);
+    printf("%ld\n", events.size() + 1);
 
     double level = 1.0;
     char lastEv[6] = "-inf";

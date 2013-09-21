@@ -4,6 +4,8 @@
 
 #define NMAX 1000000
 
+#define uint unsigned int 
+
 using namespace std;
 
 uint mem[NMAX];
