@@ -87,6 +87,10 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Beat the Spread!][10812] (`10812`)
 
+#### Volume 114
+
+* ✓ [Wedding shopping][11450] (`11450`)
+
 [1]: http://uva.onlinejudge.org
 [100]: http://uva.onlinejudge.org/external/1/100.html
 [272]: http://uva.onlinejudge.org/external/2/272.html
@@ -104,3 +108,4 @@ The following is the list of the problems solved. Each problem id is specified b
 [10363]: http://uva.onlinejudge.org/external/103/10363.html
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
 [10812]: http://uva.onlinejudge.org/external/108/10812.html
+[11450]: http://uva.onlinejudge.org/external/114/11450.html
