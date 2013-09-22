@@ -78,6 +78,14 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Tic Tac Toe][10363] (`10363`)
 
+#### Volume 104
+
+* ✓ [List of Conquests][10420] (`10420`)
+
+#### Volume 108
+
+* ✓ [Beat the Spread!][10812] (`10812`)
+
 [1]: http://uva.onlinejudge.org
 [100]: http://uva.onlinejudge.org/external/1/100.html
 [272]: http://uva.onlinejudge.org/external/2/272.html
@@ -92,3 +100,5 @@ The following is the list of the problems solved. Each problem id is specified b
 [10141]: http://uva.onlinejudge.org/external/101/10141.html
 [10281]: http://uva.onlinejudge.org/external/102/10281.html
 [10363]: http://uva.onlinejudge.org/external/103/10363.html
+[10420]: http://uva.onlinejudge.org/external/104/10420.html
+[10812]: http://uva.onlinejudge.org/external/108/10812.html
