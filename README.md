@@ -38,11 +38,13 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 4
 
+* ✓ [Permutation Arrays][482] (`482`)
 * ✓ [Word Scramble][483] (`483`)
 
 #### Volume 5
 
 * ✓ [The Snail][573] (`573`)
+* ✓ [One Little, Two Little, Three Little Endians][594] (`594`)
 
 #### Volume 6
 
@@ -87,6 +89,10 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Beat the Spread!][10812] (`10812`)
 
+#### Volume 113
+
+* ✗ [Newspaper][11340] (`11340`)
+
 #### Volume 114
 
 * ✓ [Wedding shopping][11450] (`11450`)
@@ -99,8 +105,10 @@ The following is the list of the problems solved. Each problem id is specified b
 [100]: http://uva.onlinejudge.org/external/1/100.html
 [272]: http://uva.onlinejudge.org/external/2/272.html
 [394]: http://uva.onlinejudge.org/external/3/394.html
+[482]: http://uva.onlinejudge.org/external/4/482.html
 [483]: http://uva.onlinejudge.org/external/4/483.html
 [573]: http://uva.onlinejudge.org/external/5/573.html
+[594]: http://uva.onlinejudge.org/external/5/594.html
 [661]: http://uva.onlinejudge.org/external/6/661.html
 [739]: http://uva.onlinejudge.org/external/7/739.html
 [837]: http://uva.onlinejudge.org/external/8/837.html
@@ -112,5 +120,6 @@ The following is the list of the problems solved. Each problem id is specified b
 [10363]: http://uva.onlinejudge.org/external/103/10363.html
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
 [10812]: http://uva.onlinejudge.org/external/108/10812.html
+[11340]: http://uva.onlinejudge.org/external/113/11340.html
 [11450]: http://uva.onlinejudge.org/external/114/11450.html
 [11635]: http://uva.onlinejudge.org/external/116/11635.html
