@@ -27,6 +27,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 1
 
 * ✓ [The 3n + 1 problem][100] (`100`)
+* ✓ [ID Codes][146] (`146`)
 
 #### Volume 2
 
@@ -103,6 +104,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 [1]: http://uva.onlinejudge.org
 [100]: http://uva.onlinejudge.org/external/1/100.html
+[146]: http://uva.onlinejudge.org/external/1/146.html
 [272]: http://uva.onlinejudge.org/external/2/272.html
 [394]: http://uva.onlinejudge.org/external/3/394.html
 [482]: http://uva.onlinejudge.org/external/4/482.html
