@@ -28,7 +28,6 @@ void dijkstra(int src, bool hidTransform) {
   while(!q.empty()) {
     pair<int, int> s = q.top();
     q.pop();
-    // fprintf(stderr, "<- state (%d, %d)\n", -s.first, s.second);
 
     if(-s.first > MAXT) break;
     if(visited[s.second]) continue;
@@ -43,7 +42,6 @@ void dijkstra(int src, bool hidTransform) {
       pair<int, int> edge = graph[s.second][i];
       if(!visited[edge.first]) {
         q.push(pair<int, int>(s.first - edge.second, edge.first));
-        // fprintf(stderr, "-> state (%d, %d)\n", -(s.first - edge.second), edge.first);
       }
     }
   }
@@ -70,7 +68,9 @@ int main() {
     hid[n - 1] = h + 1;
     for(int i = 0; i < h; i++) {
       scanf("%d", &hotels[i]);
-      hid[--hotels[i]] = i + 1;
+      hotels[i]--;
+      if(hotels[i] != 0 && hotels[i] != n - 1)
+        hid[hotels[i]] = i + 1;
     }
 
     for(int i = 0; i < n; i++)
@@ -83,53 +83,17 @@ int main() {
       graph[a - 1].push_back(pair<int, int>(b - 1, t));
       graph[b - 1].push_back(pair<int, int>(a - 1, t));
     }
-/*
-    fprintf(stderr, "-- graph --\n");
-    for(int i = 0; i < n; i++) {
-      fprintf(stderr, "%d -> ", i);
-      for(uint j = 0; j < graph[i].size(); j++)
-        fprintf(stderr, "%d (%d), ", graph[i][j].first, graph[i][j].second);
-      fprintf(stderr, "\n");
-    }
-
-    fprintf(stderr, "-- hids --\n");
-    for(int i = 0; i < n; i++) {
-      fprintf(stderr, "%d ", hid[i]);
-    }
-    fprintf(stderr, "\n");*/
 
     memset(dist, 0xFF, sizeof(dist));
 
     dijkstra(0, true);
     for(int i = 0; i < h; i++)
       dijkstra(hotels[i], true);
-/*
-    fprintf(stderr, "-- dists --\n");
-    for(int i = 0; i < h + 2; i++) {
-      for(int j = 0; j < h + 2; j++)
-        fprintf(stderr, "%d ", dist[i][j]);
-      fprintf(stderr, "\n");
-    }*/
 
     transformGraph(h);
-/*
-    fprintf(stderr, "-- transformed graph --\n");
-    for(int i = 0; i < h + 2; i++) {
-      fprintf(stderr, "%d -> ", i);
-      for(uint j = 0; j < graph[i].size(); j++)
-        fprintf(stderr, "%d (%d), ", graph[i][j].first, graph[i][j].second);
-      fprintf(stderr, "\n");
-    }*/
 
     memset(dist, 0xFF, sizeof(dist));
     dijkstra(0, false);
-/*
-    fprintf(stderr, "-- transformed dists --\n");
-    for(int i = 0; i < h + 2; i++) {
-      for(int j = 0; j < h + 2; j++)
-        fprintf(stderr, "%d ", dist[i][j]);
-      fprintf(stderr, "\n");
-    }*/
 
     printf("%d\n", max(-1, dist[0][h + 1] - 1));
   }
