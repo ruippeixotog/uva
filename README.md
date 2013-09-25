@@ -91,7 +91,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 113
 
-* ✗ [Newspaper][11340] (`11340`)
+* ✓ [Newspaper][11340] (`11340`)
 
 #### Volume 114
 

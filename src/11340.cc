@@ -23,13 +23,11 @@ int main() {
     }
 
     int total = 0;
-
     scanf("%d\n", &m);
-    string line;
-    while(m--) {
-      getline(cin, line);
-      for(uint i = 0; i < line.length(); i++)
-        total += pay[(int) line[i]];
+    while(m) {
+      int ch = getchar();
+      total += pay[ch];
+      if(ch == '\n') m--;
     }
     printf("%d.%.2d$\n", total / 100, total % 100);
   }
