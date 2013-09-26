@@ -72,7 +72,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 101
 
 * ✓ [Request for Proposal][10141] (`10141`)
-* ✗ [Football (aka Soccer)][10194] (`10194`)
+* ✓ [Football (aka Soccer)][10194] (`10194`)
 
 #### Volume 102
 

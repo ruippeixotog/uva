@@ -10,6 +10,12 @@
 
 using namespace std;
 
+string toUpper(const string &str) {
+  string newStr(str);
+  transform(str.begin(), str.end(), newStr.begin(), ::toupper);
+  return newStr;
+}
+
 struct TeamInfo {
   string name;
   int games[3];
@@ -40,7 +46,7 @@ struct TeamInfo {
     if(cmp != 0) return cmp < 0;
     cmp = other.getGamesPlayed() - getGamesPlayed();
     if(cmp != 0) return cmp < 0;
-    return other.name < name;
+    return toUpper(other.name) < toUpper(name);
   }
 };
 
