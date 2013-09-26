@@ -32,6 +32,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 2
 
 * ✓ [TEX Quotes][272] (`272`)
+* ✓ [Train Swapping][299] (`299`)
 
 #### Volume 3
 
@@ -108,6 +109,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [100]: http://uva.onlinejudge.org/external/1/100.html
 [146]: http://uva.onlinejudge.org/external/1/146.html
 [272]: http://uva.onlinejudge.org/external/2/272.html
+[299]: http://uva.onlinejudge.org/external/2/299.html
 [394]: http://uva.onlinejudge.org/external/3/394.html
 [482]: http://uva.onlinejudge.org/external/4/482.html
 [483]: http://uva.onlinejudge.org/external/4/483.html
