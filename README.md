@@ -76,6 +76,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 102
 
+* ✓ [Contest Scoreboard][10258] (`10258`)
 * ✓ [Average Speed][10281] (`10281`)
 
 #### Volume 103
@@ -119,6 +120,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10082]: http://uva.onlinejudge.org/external/100/10082.html
 [10141]: http://uva.onlinejudge.org/external/101/10141.html
 [10194]: http://uva.onlinejudge.org/external/101/10194.html
+[10258]: http://uva.onlinejudge.org/external/102/10258.html
 [10281]: http://uva.onlinejudge.org/external/102/10281.html
 [10360]: http://uva.onlinejudge.org/external/103/10360.html
 [10363]: http://uva.onlinejudge.org/external/103/10363.html
