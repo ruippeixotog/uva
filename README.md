@@ -45,12 +45,14 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 5
 
+* ✓ [Rails][514] (`514`)
 * ✓ [The Snail][573] (`573`)
 * ✓ [One Little, Two Little, Three Little Endians][594] (`594`)
 
 #### Volume 6
 
 * ✓ [Blowing Fuses][661] (`661`)
+* ✓ [Parentheses Balance][673] (`673`)
 
 #### Volume 7
 
@@ -115,6 +117,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [394]: http://uva.onlinejudge.org/external/3/394.html
 [482]: http://uva.onlinejudge.org/external/4/482.html
 [483]: http://uva.onlinejudge.org/external/4/483.html
+[514]: http://uva.onlinejudge.org/external/5/514.html
 [573]: http://uva.onlinejudge.org/external/5/573.html
 [594]: http://uva.onlinejudge.org/external/5/594.html
 [661]: http://uva.onlinejudge.org/external/6/661.html
