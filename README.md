@@ -97,6 +97,10 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Beat the Spread!][10812] (`10812`)
 
+#### Volume 109
+
+* ✓ [Ferry Loading III][10901] (`10901`)
+
 #### Volume 113
 
 * ✓ [Newspaper][11340] (`11340`)
@@ -137,6 +141,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10363]: http://uva.onlinejudge.org/external/103/10363.html
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
 [10812]: http://uva.onlinejudge.org/external/108/10812.html
+[10901]: http://uva.onlinejudge.org/external/109/10901.html
 [11340]: http://uva.onlinejudge.org/external/113/11340.html
 [11450]: http://uva.onlinejudge.org/external/114/11450.html
 [11462]: http://uva.onlinejudge.org/external/114/11462.html
