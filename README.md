@@ -36,6 +36,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 3
 
+* ✓ [A Node Too Far][336] (`336`)
 * ✓ [Mapmaker][394] (`394`)
 
 #### Volume 4
@@ -115,6 +116,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [146]: http://uva.onlinejudge.org/external/1/146.html
 [272]: http://uva.onlinejudge.org/external/2/272.html
 [299]: http://uva.onlinejudge.org/external/2/299.html
+[336]: http://uva.onlinejudge.org/external/3/336.html
 [394]: http://uva.onlinejudge.org/external/3/394.html
 [482]: http://uva.onlinejudge.org/external/4/482.html
 [483]: http://uva.onlinejudge.org/external/4/483.html
