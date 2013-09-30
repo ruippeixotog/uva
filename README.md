@@ -108,8 +108,13 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Ferry Loading IV][11034] (`11034`)
 
+#### Volume 111
+
+* ✗ [Hoax or what][11136] (`11136`) (SubmissionErr)
+
 #### Volume 113
 
+* ✓ [Bankrupt Baker][11308] (`11308`)
 * ✓ [Newspaper][11340] (`11340`)
 
 #### Volume 114
@@ -152,6 +157,8 @@ The following is the list of the problems solved. Each problem id is specified b
 [10812]: http://uva.onlinejudge.org/external/108/10812.html
 [10901]: http://uva.onlinejudge.org/external/109/10901.html
 [11034]: http://uva.onlinejudge.org/external/110/11034.html
+[11136]: http://uva.onlinejudge.org/external/111/11136.html
+[11308]: http://uva.onlinejudge.org/external/113/11308.html
 [11340]: http://uva.onlinejudge.org/external/113/11340.html
 [11450]: http://uva.onlinejudge.org/external/114/11450.html
 [11462]: http://uva.onlinejudge.org/external/114/11462.html
