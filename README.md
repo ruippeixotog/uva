@@ -22,6 +22,8 @@ Unless stated otherwise, every problem in this repository reads from the standar
 
 The following is the list of the problems solved. Each problem id is specified between round brackets. Problems marked with ✓ are done, while problems with ✗ are not complete and/or aren't efficient enough.
 
+*Note*: Recently, the online judge began judging correct submissions as "Submission Error" in certain problems, as announced [here][infoSE]. The problems below that are suffering from this issue are marked with "SubmissionErr" after their id.
+
 ### Problem Set Volumes
 
 #### Volume 1
@@ -81,6 +83,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 102
 
+* ✗ [Hardwood Species][10226] (`10226`) (SubmissionErr)
 * ✓ [Contest Scoreboard][10258] (`10258`)
 * ✓ [Average Speed][10281] (`10281`)
 
@@ -101,6 +104,10 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Ferry Loading III][10901] (`10901`)
 
+#### Volume 110
+
+* ✓ [Ferry Loading IV][11034] (`11034`)
+
 #### Volume 113
 
 * ✓ [Newspaper][11340] (`11340`)
@@ -113,9 +120,10 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 116
 
-* ✗ [Hotel booking][11635] (`11635`)
+* ✗ [Hotel booking][11635] (`11635`) (SubmissionErr)
 
 [1]: http://uva.onlinejudge.org
+[infoSE]: http://uva.onlinejudge.org/index.php?option=com_content&task=view&id=21
 [100]: http://uva.onlinejudge.org/external/1/100.html
 [146]: http://uva.onlinejudge.org/external/1/146.html
 [272]: http://uva.onlinejudge.org/external/2/272.html
@@ -136,12 +144,14 @@ The following is the list of the problems solved. Each problem id is specified b
 [10141]: http://uva.onlinejudge.org/external/101/10141.html
 [10194]: http://uva.onlinejudge.org/external/101/10194.html
 [10258]: http://uva.onlinejudge.org/external/102/10258.html
+[10226]: http://uva.onlinejudge.org/external/102/10226.html
 [10281]: http://uva.onlinejudge.org/external/102/10281.html
 [10360]: http://uva.onlinejudge.org/external/103/10360.html
 [10363]: http://uva.onlinejudge.org/external/103/10363.html
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
 [10812]: http://uva.onlinejudge.org/external/108/10812.html
 [10901]: http://uva.onlinejudge.org/external/109/10901.html
+[11034]: http://uva.onlinejudge.org/external/110/11034.html
 [11340]: http://uva.onlinejudge.org/external/113/11340.html
 [11450]: http://uva.onlinejudge.org/external/114/11450.html
 [11462]: http://uva.onlinejudge.org/external/114/11462.html
