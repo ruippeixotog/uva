@@ -68,6 +68,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 9
 
+* ✓ [Re-connecting Computer Sites][908] (`908`)
 * ✓ [Permutations][941] (`941`)
 
 ### Contest Volumes
