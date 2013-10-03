@@ -122,6 +122,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Wedding shopping][11450] (`11450`)
 * ✓ [Age Sort][11462] (`11462`)
+* ✓ [Babel][11492] (`11492`)
 * ✓ [Bubbles and Buckets][11495] (`11495`)
 
 #### Volume 116
@@ -163,5 +164,6 @@ The following is the list of the problems solved. Each problem id is specified b
 [11340]: http://uva.onlinejudge.org/external/113/11340.html
 [11450]: http://uva.onlinejudge.org/external/114/11450.html
 [11462]: http://uva.onlinejudge.org/external/114/11462.html
+[11492]: http://uva.onlinejudge.org/external/114/11492.html
 [11495]: http://uva.onlinejudge.org/external/114/11495.html
 [11635]: http://uva.onlinejudge.org/external/116/11635.html
