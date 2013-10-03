@@ -34,6 +34,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 2
 
 * ✓ [TEX Quotes][272] (`272`)
+* ✓ [The House Of Santa Claus][291] (`291`)
 * ✓ [Train Swapping][299] (`299`)
 
 #### Volume 3
@@ -134,6 +135,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [100]: http://uva.onlinejudge.org/external/1/100.html
 [146]: http://uva.onlinejudge.org/external/1/146.html
 [272]: http://uva.onlinejudge.org/external/2/272.html
+[291]: http://uva.onlinejudge.org/external/2/291.html
 [299]: http://uva.onlinejudge.org/external/2/299.html
 [336]: http://uva.onlinejudge.org/external/3/336.html
 [394]: http://uva.onlinejudge.org/external/3/394.html
