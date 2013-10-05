@@ -44,6 +44,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 4
 
+* ✓ [Graph Connectivity][459] (`459`)
 * ✓ [Permutation Arrays][482] (`482`)
 * ✓ [Word Scramble][483] (`483`)
 
@@ -140,6 +141,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [299]: http://uva.onlinejudge.org/external/2/299.html
 [336]: http://uva.onlinejudge.org/external/3/336.html
 [394]: http://uva.onlinejudge.org/external/3/394.html
+[459]: http://uva.onlinejudge.org/external/4/459.html
 [482]: http://uva.onlinejudge.org/external/4/482.html
 [483]: http://uva.onlinejudge.org/external/4/483.html
 [514]: http://uva.onlinejudge.org/external/5/514.html
