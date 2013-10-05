@@ -146,9 +146,11 @@ The following is the list of the problems solved. Each problem id is specified b
 [573]: http://uva.onlinejudge.org/external/5/573.html
 [594]: http://uva.onlinejudge.org/external/5/594.html
 [661]: http://uva.onlinejudge.org/external/6/661.html
+[673]: http://uva.onlinejudge.org/external/6/673.html
 [727]: http://uva.onlinejudge.org/external/7/727.html
 [739]: http://uva.onlinejudge.org/external/7/739.html
 [837]: http://uva.onlinejudge.org/external/8/837.html
+[908]: http://uva.onlinejudge.org/external/9/908.html
 [941]: http://uva.onlinejudge.org/external/9/941.html
 [10082]: http://uva.onlinejudge.org/external/100/10082.html
 [10141]: http://uva.onlinejudge.org/external/101/10141.html
@@ -161,6 +163,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
 [10812]: http://uva.onlinejudge.org/external/108/10812.html
 [10901]: http://uva.onlinejudge.org/external/109/10901.html
+[10928]: http://uva.onlinejudge.org/external/109/10928.html
 [11034]: http://uva.onlinejudge.org/external/110/11034.html
 [11136]: http://uva.onlinejudge.org/external/111/11136.html
 [11308]: http://uva.onlinejudge.org/external/113/11308.html
