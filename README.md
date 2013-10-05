@@ -63,6 +63,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Equation][727] (`727`)
 * ✓ [Soundex Indexing][739] (`739`)
+* ✓ [Network Connections][793] (`793`)
 
 #### Volume 8
 
@@ -151,6 +152,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [673]: http://uva.onlinejudge.org/external/6/673.html
 [727]: http://uva.onlinejudge.org/external/7/727.html
 [739]: http://uva.onlinejudge.org/external/7/739.html
+[793]: http://uva.onlinejudge.org/external/7/793.html
 [837]: http://uva.onlinejudge.org/external/8/837.html
 [908]: http://uva.onlinejudge.org/external/9/908.html
 [941]: http://uva.onlinejudge.org/external/9/941.html
