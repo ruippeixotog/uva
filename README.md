@@ -117,6 +117,10 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✗ [Hoax or what][11136] (`11136`) (SubmissionErr)
 
+#### Volume 112
+
+* ✓ [Frequent values][11235] (`11235`)
+
 #### Volume 113
 
 * ✓ [Bankrupt Baker][11308] (`11308`)
@@ -174,6 +178,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10928]: http://uva.onlinejudge.org/external/109/10928.html
 [11034]: http://uva.onlinejudge.org/external/110/11034.html
 [11136]: http://uva.onlinejudge.org/external/111/11136.html
+[11235]: http://uva.onlinejudge.org/external/112/11235.html
 [11308]: http://uva.onlinejudge.org/external/113/11308.html
 [11340]: http://uva.onlinejudge.org/external/113/11340.html
 [11450]: http://uva.onlinejudge.org/external/114/11450.html
