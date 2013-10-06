@@ -19,18 +19,17 @@ void init_segment_tree(int N) {
 }
 
 void build_segment_tree(int A[][MAXN], int node, int bx, int by, int ex, int ey) {
-  if (by == ey) {
-    if(bx == ex) segment_tree[node] = make_pair(A[bx][by], A[bx][by]);
-    else {
-      int leftIdx = 2 * node, rightIdx = 2 * node + 1;
+  if (by == ey && bx == ex)
+    segment_tree[node] = make_pair(A[bx][by], A[bx][by]);
+  else {
+    int leftIdx = 2 * node, rightIdx = 2 * node + 1;
+    if(by == ey) {
       build_segment_tree(A, leftIdx, bx, by, (bx + ex) / 2, ey);
       build_segment_tree(A, rightIdx, (bx + ex) / 2 + 1, by, ex, ey);
-      segment_tree[node] = join(segment_tree[leftIdx], segment_tree[rightIdx]);
+    } else {
+      build_segment_tree(A, leftIdx, bx, by, ex, (by + ey) / 2);
+      build_segment_tree(A, rightIdx, bx, (by + ey) / 2 + 1, ex, ey);
     }
-  } else {
-    int leftIdx = 2 * node, rightIdx = 2 * node + 1;
-    build_segment_tree(A, leftIdx, bx, by, ex, (by + ey) / 2);
-    build_segment_tree(A, rightIdx, bx, (by + ey) / 2 + 1, ex, ey);
     segment_tree[node] = join(segment_tree[leftIdx], segment_tree[rightIdx]);
   }
 }
@@ -57,20 +56,19 @@ pair<int, int> query(int A[][MAXN], int node, int bx, int by, int ex, int ey,
 
 void update(int A[][MAXN], int node, int bx, int by, int ex, int ey,
   int ix, int iy) {
-  if (by == ey) {
-    if(bx == ex) segment_tree[node] = make_pair(A[bx][by], A[bx][by]);
-    else {
-      int leftIdx = 2 * node, rightIdx = 2 * node + 1;
+  if (by == ey && bx == ex)
+    segment_tree[node] = make_pair(A[bx][by], A[bx][by]);
+  else {
+    int leftIdx = 2 * node, rightIdx = 2 * node + 1;
+    if(by == ey) {
       if(ix <= (bx + ex) / 2)
         update(A, leftIdx, bx, by, (bx + ex) / 2, ey, ix, iy);
       else update(A, rightIdx, (bx + ex) / 2 + 1, by, ex, ey, ix, iy);
-      segment_tree[node] = join(segment_tree[leftIdx], segment_tree[rightIdx]);
+    } else {
+      if(iy <= (by + ey) / 2)
+        update(A, leftIdx, bx, by, ex, (by + ey) / 2, ix, iy);
+      else update(A, rightIdx, bx, (by + ey) / 2 + 1, ex, ey, ix, iy);
     }
-  } else {
-    int leftIdx = 2 * node, rightIdx = 2 * node + 1;
-    if(iy <= (by + ey) / 2)
-      update(A, leftIdx, bx, by, ex, (by + ey) / 2, ix, iy);
-    else update(A, rightIdx, bx, (by + ey) / 2 + 1, ex, ey, ix, iy);
     segment_tree[node] = join(segment_tree[leftIdx], segment_tree[rightIdx]);
   }
 }
