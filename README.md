@@ -68,6 +68,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 8
 
+* ✓ [Page Hopping][821] (`821`)
 * ✓ [Light and Transparencies][837] (`837`)
 
 #### Volume 9
