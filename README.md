@@ -69,6 +69,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 8
 
 * ✓ [Page Hopping][821] (`821`)
+* ✓ [Continued Fractions][834] (`834`)
 * ✓ [Light and Transparencies][837] (`837`)
 
 #### Volume 9
@@ -144,6 +145,10 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✗ [Hotel booking][11635] (`11635`) (SubmissionErr)
 
+#### Volume 124
+
+* ✓ [Scarecrow][12405] (`12405`)
+
 [1]: http://uva.onlinejudge.org
 [infoSE]: http://uva.onlinejudge.org/index.php?option=com_content&task=view&id=21
 [100]: http://uva.onlinejudge.org/external/1/100.html
@@ -153,6 +158,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [299]: http://uva.onlinejudge.org/external/2/299.html
 [336]: http://uva.onlinejudge.org/external/3/336.html
 [394]: http://uva.onlinejudge.org/external/3/394.html
+[422]: http://uva.onlinejudge.org/external/4/422.html
 [459]: http://uva.onlinejudge.org/external/4/459.html
 [482]: http://uva.onlinejudge.org/external/4/482.html
 [483]: http://uva.onlinejudge.org/external/4/483.html
@@ -164,6 +170,8 @@ The following is the list of the problems solved. Each problem id is specified b
 [727]: http://uva.onlinejudge.org/external/7/727.html
 [739]: http://uva.onlinejudge.org/external/7/739.html
 [793]: http://uva.onlinejudge.org/external/7/793.html
+[821]: http://uva.onlinejudge.org/external/8/821.html
+[834]: http://uva.onlinejudge.org/external/8/834.html
 [837]: http://uva.onlinejudge.org/external/8/837.html
 [908]: http://uva.onlinejudge.org/external/9/908.html
 [941]: http://uva.onlinejudge.org/external/9/941.html
@@ -191,3 +199,4 @@ The following is the list of the problems solved. Each problem id is specified b
 [11495]: http://uva.onlinejudge.org/external/114/11495.html
 [11503]: http://uva.onlinejudge.org/external/115/11503.html
 [11635]: http://uva.onlinejudge.org/external/116/11635.html
+[12405]: http://uva.onlinejudge.org/external/124/12405.html
