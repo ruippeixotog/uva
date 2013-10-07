@@ -127,6 +127,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 113
 
+* ✓ [Alternative Arborescence][11307] (`11307`)
 * ✓ [Bankrupt Baker][11308] (`11308`)
 * ✓ [Newspaper][11340] (`11340`)
 
@@ -191,6 +192,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [11136]: http://uva.onlinejudge.org/external/111/11136.html
 [11235]: http://uva.onlinejudge.org/external/112/11235.html
 [11297]: http://uva.onlinejudge.org/external/112/11297.html
+[11307]: http://uva.onlinejudge.org/external/113/11307.html
 [11308]: http://uva.onlinejudge.org/external/113/11308.html
 [11340]: http://uva.onlinejudge.org/external/113/11340.html
 [11450]: http://uva.onlinejudge.org/external/114/11450.html
