@@ -44,6 +44,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 4
 
+* ✓ [Word-Search Wonder][422] (`422`)
 * ✓ [Graph Connectivity][459] (`459`)
 * ✓ [Permutation Arrays][482] (`482`)
 * ✓ [Word Scramble][483] (`483`)
