@@ -133,6 +133,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 114
 
+* ✗ [Ahoy, Pirates!][11402] (`11402`)
 * ✓ [Wedding shopping][11450] (`11450`)
 * ✓ [Age Sort][11462] (`11462`)
 * ✓ [Babel][11492] (`11492`)
@@ -195,6 +196,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [11307]: http://uva.onlinejudge.org/external/113/11307.html
 [11308]: http://uva.onlinejudge.org/external/113/11308.html
 [11340]: http://uva.onlinejudge.org/external/113/11340.html
+[11402]: http://uva.onlinejudge.org/external/114/11402.html
 [11450]: http://uva.onlinejudge.org/external/114/11450.html
 [11462]: http://uva.onlinejudge.org/external/114/11462.html
 [11492]: http://uva.onlinejudge.org/external/114/11492.html
