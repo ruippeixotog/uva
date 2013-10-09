@@ -44,6 +44,7 @@ void build_segment_tree(bool A[], int node, int b, int e) {
     build_segment_tree(A, leftIdx, b, (b + e) / 2);
     build_segment_tree(A, rightIdx, (b + e) / 2 + 1, e);
     segment_tree[node] = join(segment_tree[leftIdx], segment_tree[rightIdx]);
+    has_lazy_update[node] = false;
   }
 }
 

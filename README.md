@@ -133,7 +133,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 114
 
-* ✗ [Ahoy, Pirates!][11402] (`11402`)
+* ✓ [Ahoy, Pirates!][11402] (`11402`)
 * ✓ [Wedding shopping][11450] (`11450`)
 * ✓ [Age Sort][11462] (`11462`)
 * ✓ [Babel][11492] (`11492`)
