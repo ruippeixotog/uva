@@ -62,6 +62,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 7
 
+* ✓ [Division][725] (`725`)
 * ✓ [Equation][727] (`727`)
 * ✓ [Soundex Indexing][739] (`739`)
 * ✓ [Network Connections][793] (`793`)
@@ -169,6 +170,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [594]: http://uva.onlinejudge.org/external/5/594.html
 [661]: http://uva.onlinejudge.org/external/6/661.html
 [673]: http://uva.onlinejudge.org/external/6/673.html
+[725]: http://uva.onlinejudge.org/external/7/725.html
 [727]: http://uva.onlinejudge.org/external/7/727.html
 [739]: http://uva.onlinejudge.org/external/7/739.html
 [793]: http://uva.onlinejudge.org/external/7/793.html
