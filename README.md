@@ -30,6 +30,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [The 3n + 1 problem][100] (`100`)
 * ✓ [ID Codes][146] (`146`)
+* ✓ [Graph Coloring][193] (`193`)
 
 #### Volume 2
 
@@ -158,6 +159,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [infoSE]: http://uva.onlinejudge.org/index.php?option=com_content&task=view&id=21
 [100]: http://uva.onlinejudge.org/external/1/100.html
 [146]: http://uva.onlinejudge.org/external/1/146.html
+[193]: http://uva.onlinejudge.org/external/1/193.html
 [272]: http://uva.onlinejudge.org/external/2/272.html
 [291]: http://uva.onlinejudge.org/external/2/291.html
 [299]: http://uva.onlinejudge.org/external/2/299.html
