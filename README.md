@@ -57,6 +57,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 6
 
+* ✓ [CD][624] (`624`)
 * ✓ [Blowing Fuses][661] (`661`)
 * ✓ [Parentheses Balance][673] (`673`)
 
@@ -169,6 +170,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [514]: http://uva.onlinejudge.org/external/5/514.html
 [573]: http://uva.onlinejudge.org/external/5/573.html
 [594]: http://uva.onlinejudge.org/external/5/594.html
+[624]: http://uva.onlinejudge.org/external/6/624.html
 [661]: http://uva.onlinejudge.org/external/6/661.html
 [673]: http://uva.onlinejudge.org/external/6/673.html
 [725]: http://uva.onlinejudge.org/external/7/725.html
