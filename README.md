@@ -67,6 +67,7 @@ The following is the list of the problems solved. Each problem id is specified b
 * ✓ [Division][725] (`725`)
 * ✓ [Equation][727] (`727`)
 * ✓ [Soundex Indexing][739] (`739`)
+* ✓ [8 Queens Chess Problem][750] (`750`)
 * ✓ [Network Connections][793] (`793`)
 
 #### Volume 8
@@ -178,6 +179,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [725]: http://uva.onlinejudge.org/external/7/725.html
 [727]: http://uva.onlinejudge.org/external/7/727.html
 [739]: http://uva.onlinejudge.org/external/7/739.html
+[750]: http://uva.onlinejudge.org/external/7/750.html
 [793]: http://uva.onlinejudge.org/external/7/793.html
 [821]: http://uva.onlinejudge.org/external/8/821.html
 [834]: http://uva.onlinejudge.org/external/8/834.html
