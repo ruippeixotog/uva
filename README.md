@@ -65,6 +65,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 7
 
+* ✓ [Copying Books][714] (`714`)
 * ✓ [Division][725] (`725`)
 * ✓ [Equation][727] (`727`)
 * ✓ [Soundex Indexing][739] (`739`)
@@ -178,6 +179,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [661]: http://uva.onlinejudge.org/external/6/661.html
 [673]: http://uva.onlinejudge.org/external/6/673.html
 [679]: http://uva.onlinejudge.org/external/6/679.html
+[714]: http://uva.onlinejudge.org/external/7/714.html
 [725]: http://uva.onlinejudge.org/external/7/725.html
 [727]: http://uva.onlinejudge.org/external/7/727.html
 [739]: http://uva.onlinejudge.org/external/7/739.html
