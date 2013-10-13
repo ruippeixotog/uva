@@ -61,7 +61,7 @@ The following is the list of the problems solved. Each problem id is specified b
 * ✓ [CD][624] (`624`)
 * ✓ [Blowing Fuses][661] (`661`)
 * ✓ [Parentheses Balance][673] (`673`)
-* ✗ [Dropping Balls][679] (`679`)
+* ✓ [Dropping Balls][679] (`679`)
 
 #### Volume 7
 
