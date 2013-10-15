@@ -111,6 +111,10 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [List of Conquests][10420] (`10420`)
 
+#### Volume 106
+
+* ✓ [Work Reduction][10670] (`10670`)
+
 #### Volume 108
 
 * ✓ [Beat the Spread!][10812] (`10812`)
@@ -203,6 +207,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10360]: http://uva.onlinejudge.org/external/103/10360.html
 [10363]: http://uva.onlinejudge.org/external/103/10363.html
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
+[10670]: http://uva.onlinejudge.org/external/106/10670.html
 [10812]: http://uva.onlinejudge.org/external/108/10812.html
 [10901]: http://uva.onlinejudge.org/external/109/10901.html
 [10928]: http://uva.onlinejudge.org/external/109/10928.html
