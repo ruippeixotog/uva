@@ -48,6 +48,7 @@ The following is the list of the problems solved. Each problem id is specified b
 * ✓ [Station Balance][410] (`410`)
 * ✓ [Word-Search Wonder][422] (`422`)
 * ✓ [Graph Connectivity][459] (`459`)
+* ✓ [What Goes Up][481] (`481`)
 * ✓ [Permutation Arrays][482] (`482`)
 * ✓ [Word Scramble][483] (`483`)
 
@@ -178,6 +179,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [410]: http://uva.onlinejudge.org/external/4/410.html
 [422]: http://uva.onlinejudge.org/external/4/422.html
 [459]: http://uva.onlinejudge.org/external/4/459.html
+[481]: http://uva.onlinejudge.org/external/4/481.html
 [482]: http://uva.onlinejudge.org/external/4/482.html
 [483]: http://uva.onlinejudge.org/external/4/483.html
 [514]: http://uva.onlinejudge.org/external/5/514.html
