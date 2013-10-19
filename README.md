@@ -163,6 +163,10 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✗ [Hotel booking][11635] (`11635`) (SubmissionErr)
 
+#### Volume 117
+
+* ✓ [Murcia's Skyline][11790] (`11790`)
+
 #### Volume 124
 
 * ✓ [Scarecrow][12405] (`12405`)
@@ -232,4 +236,5 @@ The following is the list of the problems solved. Each problem id is specified b
 [11495]: http://uva.onlinejudge.org/external/114/11495.html
 [11503]: http://uva.onlinejudge.org/external/115/11503.html
 [11635]: http://uva.onlinejudge.org/external/116/11635.html
+[11790]: http://uva.onlinejudge.org/external/117/11790.html
 [12405]: http://uva.onlinejudge.org/external/124/12405.html
