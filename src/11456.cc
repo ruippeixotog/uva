@@ -14,7 +14,7 @@ int main() {
     int n; cin >> n;
     for(int i = 0; i < n; i++) cin >> arr[n + i];
     for(int i = 0; i < n; i++) arr[i] = arr[2 * n - i - 1];
-    memset(dp, 0, 2 * n * sizeof(int));
+    memset(dp, 0, n * sizeof(int));
     dp[0] = -1;
 
     int m = 0;

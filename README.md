@@ -150,7 +150,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Ahoy, Pirates!][11402] (`11402`)
 * ✓ [Wedding shopping][11450] (`11450`)
-* ✗ [Trainsorting][11456] (`11456`)
+* ✓ [Trainsorting][11456] (`11456`)
 * ✓ [Age Sort][11462] (`11462`)
 * ✓ [Babel][11492] (`11492`)
 * ✓ [Bubbles and Buckets][11495] (`11495`)
