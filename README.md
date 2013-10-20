@@ -124,6 +124,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 108
 
 * ✓ [Beat the Spread!][10812] (`10812`)
+* ✓ [Maximum sum on a torus][10827] (`10827`)
 
 #### Volume 109
 
@@ -227,6 +228,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
 [10670]: http://uva.onlinejudge.org/external/106/10670.html
 [10812]: http://uva.onlinejudge.org/external/108/10812.html
+[10827]: http://uva.onlinejudge.org/external/108/10827.html
 [10901]: http://uva.onlinejudge.org/external/109/10901.html
 [10928]: http://uva.onlinejudge.org/external/109/10928.html
 [11034]: http://uva.onlinejudge.org/external/110/11034.html
