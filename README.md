@@ -58,6 +58,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Jill Rides Again][507] (`507`)
 * ✓ [Rails][514] (`514`)
+* ✓ [Dividing coins][562] (`562`)
 * ✓ [The Snail][573] (`573`)
 * ✓ [One Little, Two Little, Three Little Endians][594] (`594`)
 
@@ -197,6 +198,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [483]: http://uva.onlinejudge.org/external/4/483.html
 [507]: http://uva.onlinejudge.org/external/5/507.html
 [514]: http://uva.onlinejudge.org/external/5/514.html
+[562]: http://uva.onlinejudge.org/external/5/562.html
 [573]: http://uva.onlinejudge.org/external/5/573.html
 [594]: http://uva.onlinejudge.org/external/5/594.html
 [624]: http://uva.onlinejudge.org/external/6/624.html
