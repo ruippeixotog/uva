@@ -98,6 +98,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 101
 
+* ✓ [SuperSale][10130] (`10130`)
 * ✓ [Request for Proposal][10141] (`10141`)
 * ✓ [Football (aka Soccer)][10194] (`10194`)
 
@@ -219,6 +220,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [941]: http://uva.onlinejudge.org/external/9/941.html
 [990]: http://uva.onlinejudge.org/external/9/990.html
 [10082]: http://uva.onlinejudge.org/external/100/10082.html
+[10130]: http://uva.onlinejudge.org/external/101/10130.html
 [10141]: http://uva.onlinejudge.org/external/101/10141.html
 [10194]: http://uva.onlinejudge.org/external/101/10194.html
 [10258]: http://uva.onlinejudge.org/external/102/10258.html
