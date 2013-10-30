@@ -128,6 +128,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 106
 
+* ✓ [Pebble Solitaire][10651] (`10651`)
 * ✓ [Work Reduction][10670] (`10670`)
 
 #### Volume 108
@@ -244,6 +245,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10363]: http://uva.onlinejudge.org/external/103/10363.html
 [10364]: http://uva.onlinejudge.org/external/103/10364.html
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
+[10651]: http://uva.onlinejudge.org/external/106/10651.html
 [10670]: http://uva.onlinejudge.org/external/106/10670.html
 [10812]: http://uva.onlinejudge.org/external/108/10812.html
 [10827]: http://uva.onlinejudge.org/external/108/10827.html
