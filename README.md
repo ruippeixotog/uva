@@ -139,7 +139,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 109
 
 * ✓ [Ferry Loading III][10901] (`10901`)
-* ✗ [Forming Quiz Teams][10911] (`10911`)
+* ✓ [Forming Quiz Teams][10911] (`10911`)
 * ✓ [My Dear Neighbours][10928] (`10928`)
 
 #### Volume 110
