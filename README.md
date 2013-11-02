@@ -89,6 +89,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 9
 
 * ✓ [Re-connecting Computer Sites][908] (`908`)
+* ✓ [TV game][910] (`910`)
 * ✓ [Permutations][941] (`941`)
 * ✓ [Diving for Gold][990] (`990`)
 
@@ -228,6 +229,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [834]: http://uva.onlinejudge.org/external/8/834.html
 [837]: http://uva.onlinejudge.org/external/8/837.html
 [908]: http://uva.onlinejudge.org/external/9/908.html
+[910]: http://uva.onlinejudge.org/external/9/910.html
 [941]: http://uva.onlinejudge.org/external/9/941.html
 [990]: http://uva.onlinejudge.org/external/9/990.html
 [10003]: http://uva.onlinejudge.org/external/100/10003.html
