@@ -111,6 +111,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 102
 
 * ✗ [Hardwood Species][10226] (`10226`) (SubmissionErr)
+* ✓ [Fire! Fire!! Fire!!!][10243] (`10243`)
 * ✓ [Contest Scoreboard][10258] (`10258`)
 * ✓ [Average Speed][10281] (`10281`)
 
@@ -132,6 +133,10 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Pebble Solitaire][10651] (`10651`)
 * ✓ [Work Reduction][10670] (`10670`)
+
+#### Volume 107
+
+* ✓ [Travelling Salesman][10702] (`10702`)
 
 #### Volume 108
 
@@ -239,6 +244,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10130]: http://uva.onlinejudge.org/external/101/10130.html
 [10141]: http://uva.onlinejudge.org/external/101/10141.html
 [10194]: http://uva.onlinejudge.org/external/101/10194.html
+[10243]: http://uva.onlinejudge.org/external/102/10243.html
 [10258]: http://uva.onlinejudge.org/external/102/10258.html
 [10226]: http://uva.onlinejudge.org/external/102/10226.html
 [10281]: http://uva.onlinejudge.org/external/102/10281.html
@@ -252,6 +258,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
 [10651]: http://uva.onlinejudge.org/external/106/10651.html
 [10670]: http://uva.onlinejudge.org/external/106/10670.html
+[10702]: http://uva.onlinejudge.org/external/107/10702.html
 [10812]: http://uva.onlinejudge.org/external/108/10812.html
 [10827]: http://uva.onlinejudge.org/external/108/10827.html
 [10901]: http://uva.onlinejudge.org/external/109/10901.html
