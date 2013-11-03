@@ -50,6 +50,7 @@ The following is the list of the problems solved. Each problem id is specified b
 * ✓ [Station Balance][410] (`410`)
 * ✓ [Word-Search Wonder][422] (`422`)
 * ✓ [Graph Connectivity][459] (`459`)
+* ✓ [Wetlands of Florida][469] (`469`)
 * ✓ [Raucous Rockers][473] (`473`)
 * ✓ [What Goes Up][481] (`481`)
 * ✓ [Permutation Arrays][482] (`482`)
@@ -67,6 +68,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 6
 
 * ✓ [CD][624] (`624`)
+* ✓ [The die is cast][657] (`657`)
 * ✓ [Blowing Fuses][661] (`661`)
 * ✓ [Parentheses Balance][673] (`673`)
 * ✓ [Dropping Balls][679] (`679`)
@@ -210,6 +212,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [410]: http://uva.onlinejudge.org/external/4/410.html
 [422]: http://uva.onlinejudge.org/external/4/422.html
 [459]: http://uva.onlinejudge.org/external/4/459.html
+[469]: http://uva.onlinejudge.org/external/4/469.html
 [473]: http://uva.onlinejudge.org/external/4/473.html
 [481]: http://uva.onlinejudge.org/external/4/481.html
 [482]: http://uva.onlinejudge.org/external/4/482.html
@@ -221,6 +224,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [590]: http://uva.onlinejudge.org/external/5/590.html
 [594]: http://uva.onlinejudge.org/external/5/594.html
 [624]: http://uva.onlinejudge.org/external/6/624.html
+[657]: http://uva.onlinejudge.org/external/6/657.html
 [661]: http://uva.onlinejudge.org/external/6/661.html
 [673]: http://uva.onlinejudge.org/external/6/673.html
 [679]: http://uva.onlinejudge.org/external/6/679.html
