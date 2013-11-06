@@ -41,6 +41,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 3
 
+* ✓ [Network][315] (`315`)
 * ✓ [A Node Too Far][336] (`336`)
 * ✓ [Let Me Count The Ways][357] (`357`)
 * ✓ [Mapmaker][394] (`394`)
@@ -81,6 +82,7 @@ The following is the list of the problems solved. Each problem id is specified b
 * ✓ [Soundex Indexing][739] (`739`)
 * ✓ [8 Queens Chess Problem][750] (`750`)
 * ✓ [Network Connections][793] (`793`)
+* ✓ [Critical Links][796] (`796`)
 
 #### Volume 8
 
@@ -207,6 +209,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [272]: http://uva.onlinejudge.org/external/2/272.html
 [291]: http://uva.onlinejudge.org/external/2/291.html
 [299]: http://uva.onlinejudge.org/external/2/299.html
+[315]: http://uva.onlinejudge.org/external/3/315.html
 [336]: http://uva.onlinejudge.org/external/3/336.html
 [357]: http://uva.onlinejudge.org/external/3/357.html
 [394]: http://uva.onlinejudge.org/external/3/394.html
@@ -235,6 +238,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [739]: http://uva.onlinejudge.org/external/7/739.html
 [750]: http://uva.onlinejudge.org/external/7/750.html
 [793]: http://uva.onlinejudge.org/external/7/793.html
+[796]: http://uva.onlinejudge.org/external/7/796.html
 [821]: http://uva.onlinejudge.org/external/8/821.html
 [834]: http://uva.onlinejudge.org/external/8/834.html
 [837]: http://uva.onlinejudge.org/external/8/837.html
