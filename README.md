@@ -188,6 +188,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 115
 
 * ✓ [Virtual Friends][11503] (`11503`)
+* ✓ [Dominos][11504] (`11504`)
 * ✓ [Exact Change][11517] (`11517`)
 
 #### Volume 116
@@ -293,6 +294,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [11492]: http://uva.onlinejudge.org/external/114/11492.html
 [11495]: http://uva.onlinejudge.org/external/114/11495.html
 [11503]: http://uva.onlinejudge.org/external/115/11503.html
+[11504]: http://uva.onlinejudge.org/external/115/11504.html
 [11517]: http://uva.onlinejudge.org/external/115/11517.html
 [11635]: http://uva.onlinejudge.org/external/116/11635.html
 [11790]: http://uva.onlinejudge.org/external/117/11790.html
