@@ -142,6 +142,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 107
 
 * ✓ [Travelling Salesman][10702] (`10702`)
+* ✓ [Test][10731] (`10731`)
 
 #### Volume 108
 
@@ -270,6 +271,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10651]: http://uva.onlinejudge.org/external/106/10651.html
 [10670]: http://uva.onlinejudge.org/external/106/10670.html
 [10702]: http://uva.onlinejudge.org/external/107/10702.html
+[10731]: http://uva.onlinejudge.org/external/107/10731.html
 [10812]: http://uva.onlinejudge.org/external/108/10812.html
 [10827]: http://uva.onlinejudge.org/external/108/10827.html
 [10901]: http://uva.onlinejudge.org/external/109/10901.html
