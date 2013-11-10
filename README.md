@@ -90,6 +90,7 @@ The following is the list of the problems solved. Each problem id is specified b
 * ✓ [Page Hopping][821] (`821`)
 * ✓ [Continued Fractions][834] (`834`)
 * ✓ [Light and Transparencies][837] (`837`)
+* ✓ [Ordering][872] (`872`)
 
 #### Volume 9
 
@@ -123,6 +124,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 103
 
+* ✓ [Ordering Tasks][10305] (`10305`)
 * ✓ [e-Coins][10306] (`10306`)
 * ✓ [Flight Planner][10337] (`10337`)
 * ✓ [All in All][10340] (`10340`)
@@ -248,6 +250,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [821]: http://uva.onlinejudge.org/external/8/821.html
 [834]: http://uva.onlinejudge.org/external/8/834.html
 [837]: http://uva.onlinejudge.org/external/8/837.html
+[872]: http://uva.onlinejudge.org/external/8/872.html
 [908]: http://uva.onlinejudge.org/external/9/908.html
 [910]: http://uva.onlinejudge.org/external/9/910.html
 [941]: http://uva.onlinejudge.org/external/9/941.html
@@ -264,6 +267,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10258]: http://uva.onlinejudge.org/external/102/10258.html
 [10226]: http://uva.onlinejudge.org/external/102/10226.html
 [10281]: http://uva.onlinejudge.org/external/102/10281.html
+[10305]: http://uva.onlinejudge.org/external/103/10305.html
 [10306]: http://uva.onlinejudge.org/external/103/10306.html
 [10337]: http://uva.onlinejudge.org/external/103/10337.html
 [10340]: http://uva.onlinejudge.org/external/103/10340.html
