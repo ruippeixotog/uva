@@ -231,6 +231,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [483]: http://uva.onlinejudge.org/external/4/483.html
 [507]: http://uva.onlinejudge.org/external/5/507.html
 [514]: http://uva.onlinejudge.org/external/5/514.html
+[532]: http://uva.onlinejudge.org/external/5/532.html
 [562]: http://uva.onlinejudge.org/external/5/562.html
 [573]: http://uva.onlinejudge.org/external/5/573.html
 [590]: http://uva.onlinejudge.org/external/5/590.html
