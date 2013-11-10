@@ -140,6 +140,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 106
 
 * ✓ [Pebble Solitaire][10651] (`10651`)
+* ✓ [Bombs! NO they are Mines!!][10653] (`10653`)
 * ✓ [Work Reduction][10670] (`10670`)
 
 #### Volume 107
@@ -278,6 +279,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10364]: http://uva.onlinejudge.org/external/103/10364.html
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
 [10651]: http://uva.onlinejudge.org/external/106/10651.html
+[10653]: http://uva.onlinejudge.org/external/106/10653.html
 [10670]: http://uva.onlinejudge.org/external/106/10670.html
 [10702]: http://uva.onlinejudge.org/external/107/10702.html
 [10731]: http://uva.onlinejudge.org/external/107/10731.html
