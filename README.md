@@ -104,6 +104,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 100
 
 * ✓ [Cutting Sticks][10003] (`10003`)
+* ✓ [Bicoloring][10004] (`10004`)
 * ✓ [Hashmat the Brave Warrior][10055] (`10055`)
 * ✓ [Back to High School Physics][10071] (`10071`)
 * ✓ [WERTYU][10082] (`10082`)
@@ -258,6 +259,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [941]: http://uva.onlinejudge.org/external/9/941.html
 [990]: http://uva.onlinejudge.org/external/9/990.html
 [10003]: http://uva.onlinejudge.org/external/100/10003.html
+[10004]: http://uva.onlinejudge.org/external/100/10004.html
 [10055]: http://uva.onlinejudge.org/external/100/10055.html
 [10071]: http://uva.onlinejudge.org/external/100/10071.html
 [10082]: http://uva.onlinejudge.org/external/100/10082.html
