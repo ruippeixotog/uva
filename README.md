@@ -166,6 +166,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 111
 
+* ✓ [Mall Mania][11101] (`11101`)
 * ✓ [Equidivisions][11110] (`11110`)
 * ✗ [Hoax or what][11136] (`11136`) (SubmissionErr)
 
@@ -291,6 +292,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10911]: http://uva.onlinejudge.org/external/109/10911.html
 [10928]: http://uva.onlinejudge.org/external/109/10928.html
 [11034]: http://uva.onlinejudge.org/external/110/11034.html
+[11101]: http://uva.onlinejudge.org/external/111/11101.html
 [11110]: http://uva.onlinejudge.org/external/111/11110.html
 [11136]: http://uva.onlinejudge.org/external/111/11136.html
 [11235]: http://uva.onlinejudge.org/external/112/11235.html
