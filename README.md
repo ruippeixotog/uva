@@ -200,6 +200,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 116
 
 * ✓ [Fire!][11624] (`11624`)
+* ✓ [Dark roads][11631] (`11631`)
 * ✗ [Hotel booking][11635] (`11635`) (SubmissionErr)
 
 #### Volume 117
@@ -312,6 +313,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [11504]: http://uva.onlinejudge.org/external/115/11504.html
 [11517]: http://uva.onlinejudge.org/external/115/11517.html
 [11624]: http://uva.onlinejudge.org/external/116/11624.html
+[11631]: http://uva.onlinejudge.org/external/116/11631.html
 [11635]: http://uva.onlinejudge.org/external/116/11635.html
 [11709]: http://uva.onlinejudge.org/external/117/11709.html
 [11790]: http://uva.onlinejudge.org/external/117/11790.html
