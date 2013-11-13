@@ -206,6 +206,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 117
 
 * ✓ [Trust groups][11709] (`11709`)
+* ✓ [Heavy Cycle Edges][11747] (`11747`)
 * ✓ [Murcia's Skyline][11790] (`11790`)
 
 #### Volume 124
@@ -316,5 +317,6 @@ The following is the list of the problems solved. Each problem id is specified b
 [11631]: http://uva.onlinejudge.org/external/116/11631.html
 [11635]: http://uva.onlinejudge.org/external/116/11635.html
 [11709]: http://uva.onlinejudge.org/external/117/11709.html
+[11747]: http://uva.onlinejudge.org/external/117/11747.html
 [11790]: http://uva.onlinejudge.org/external/117/11790.html
 [12405]: http://uva.onlinejudge.org/external/124/12405.html
