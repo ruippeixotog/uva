@@ -133,6 +133,7 @@ The following is the list of the problems solved. Each problem id is specified b
 * ✓ [Rat Attack][10360] (`10360`)
 * ✓ [Tic Tac Toe][10363] (`10363`)
 * ✓ [Square][10364] (`10364`)
+* ✓ [Arctic Network][10369] (`10369`)
 
 #### Volume 104
 
@@ -283,6 +284,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10360]: http://uva.onlinejudge.org/external/103/10360.html
 [10363]: http://uva.onlinejudge.org/external/103/10363.html
 [10364]: http://uva.onlinejudge.org/external/103/10364.html
+[10369]: http://uva.onlinejudge.org/external/103/10369.html
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
 [10651]: http://uva.onlinejudge.org/external/106/10651.html
 [10653]: http://uva.onlinejudge.org/external/106/10653.html
