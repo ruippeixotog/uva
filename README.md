@@ -44,6 +44,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Network][315] (`315`)
 * ✓ [A Node Too Far][336] (`336`)
+* ✓ [Non-Stop Travel][341] (`341`)
 * ✓ [Let Me Count The Ways][357] (`357`)
 * ✓ [Mapmaker][394] (`394`)
 
@@ -228,6 +229,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [299]: http://uva.onlinejudge.org/external/2/299.html
 [315]: http://uva.onlinejudge.org/external/3/315.html
 [336]: http://uva.onlinejudge.org/external/3/336.html
+[341]: http://uva.onlinejudge.org/external/3/341.html
 [357]: http://uva.onlinejudge.org/external/3/357.html
 [394]: http://uva.onlinejudge.org/external/3/394.html
 [410]: http://uva.onlinejudge.org/external/4/410.html
