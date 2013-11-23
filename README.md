@@ -155,6 +155,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 108
 
+* ✓ [Lift Hopping][10801] (`10801`)
 * ✓ [Beat the Spread!][10812] (`10812`)
 * ✓ [Maximum sum on a torus][10827] (`10827`)
 
@@ -297,6 +298,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10670]: http://uva.onlinejudge.org/external/106/10670.html
 [10702]: http://uva.onlinejudge.org/external/107/10702.html
 [10731]: http://uva.onlinejudge.org/external/107/10731.html
+[10801]: http://uva.onlinejudge.org/external/108/10801.html
 [10812]: http://uva.onlinejudge.org/external/108/10812.html
 [10827]: http://uva.onlinejudge.org/external/108/10827.html
 [10901]: http://uva.onlinejudge.org/external/109/10901.html
