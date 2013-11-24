@@ -144,7 +144,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 105
 
-* ✗ [XYZZY][10557] (`10557`)
+* ✓ [XYZZY][10557] (`10557`)
 
 #### Volume 106
 

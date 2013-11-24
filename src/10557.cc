@@ -1,5 +1,6 @@
 #include <cstring>
 #include <iostream>
+#include <queue>
 #include <utility>
 #include <vector>
 
@@ -8,8 +9,9 @@
 using namespace std;
 
 vector<int> graph[MAXN];
-int roomEnergy[MAXN];
-int maxEnergy[MAXN];
+int roomEnergy[MAXN], maxEnergy[MAXN];
+
+bool found[MAXN];
 
 int main() {
   int n;
@@ -21,25 +23,40 @@ int main() {
         int d; cin >> d;
         graph[i].push_back(--d);
       }
-      maxEnergy[i] = -1e9;
     }
 
+    memset(maxEnergy, 0, sizeof(maxEnergy));
     maxEnergy[0] = 100;
-    bool improved = false;
+
+    queue<int> posCycle;
     for(int k = 0; k <= n; k++) {
-      improved = false;
       for(int i = 0; i < n; i++) {
         if(maxEnergy[i] <= 0) continue;
         for(int j = 0; j < (int) graph[i].size(); j++) {
           int newEn = maxEnergy[i] + roomEnergy[graph[i][j]];
           if(newEn > maxEnergy[graph[i][j]]) {
-            if(graph[i][j] == n - 1) improved = true;
             maxEnergy[graph[i][j]] = newEn;
+            if(k == n) posCycle.push(graph[i][j]);
           }
         }
       }
     }
-    cout << ((maxEnergy[n - 1] > 0) | improved ?
+
+    memset(found, false, sizeof(found));
+    bool infiniteEn = false;
+    while(!posCycle.empty()) {
+      int r = posCycle.front(); posCycle.pop();
+      if(r == n - 1) { infiniteEn = true; break; }
+
+      for(int j = 0; j < (int) graph[r].size(); j++) {
+        if(!found[graph[r][j]]) {
+          found[graph[r][j]] = true;
+          posCycle.push(graph[r][j]);
+        }
+      }
+    }
+
+    cout << ((maxEnergy[n - 1] > 0) | infiniteEn ?
       "winnable" : "hopeless") << endl;
   }
   return 0;
