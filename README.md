@@ -184,6 +184,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Frequent values][11235] (`11235`)
 * ✓ [Tour de France][11242] (`11242`)
+* ✓ [Flying to Fredericton][11280] (`11280`)
 * ✓ [Census][11297] (`11297`)
 
 #### Volume 113
@@ -317,6 +318,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [11136]: http://uva.onlinejudge.org/external/111/11136.html
 [11235]: http://uva.onlinejudge.org/external/112/11235.html
 [11242]: http://uva.onlinejudge.org/external/112/11242.html
+[11280]: http://uva.onlinejudge.org/external/112/11280.html
 [11297]: http://uva.onlinejudge.org/external/112/11297.html
 [11307]: http://uva.onlinejudge.org/external/113/11307.html
 [11308]: http://uva.onlinejudge.org/external/113/11308.html
