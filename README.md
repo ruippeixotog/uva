@@ -115,6 +115,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [SuperSale][10130] (`10130`)
 * ✓ [Request for Proposal][10141] (`10141`)
+* ✓ [Meeting Prof. Miguel...][10171] (`10171`)
 * ✓ [Football (aka Soccer)][10194] (`10194`)
 * ✓ [Tourist Guide][10199] (`10199`)
 
@@ -282,6 +283,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10082]: http://uva.onlinejudge.org/external/100/10082.html
 [10130]: http://uva.onlinejudge.org/external/101/10130.html
 [10141]: http://uva.onlinejudge.org/external/101/10141.html
+[10171]: http://uva.onlinejudge.org/external/101/10171.html
 [10194]: http://uva.onlinejudge.org/external/101/10194.html
 [10199]: http://uva.onlinejudge.org/external/101/10199.html
 [10243]: http://uva.onlinejudge.org/external/102/10243.html
