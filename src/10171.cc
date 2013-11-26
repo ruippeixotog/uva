@@ -28,8 +28,7 @@ int main() {
       }
     }
     char ai, bi; cin >> ai >> bi;
-    dist[0][toi(ai)][toi(ai)] = 0;
-    dist[1][toi(bi)][toi(bi)] = 0;
+    dist[0][toi(ai)][toi(ai)] = dist[1][toi(bi)][toi(bi)] = 0;
 
     for(int k = 0; k < MAXP; k++) {
       for(int i = 0; i < MAXP; i++) {

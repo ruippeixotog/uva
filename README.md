@@ -200,6 +200,7 @@ The following is the list of the problems solved. Each problem id is specified b
 * ✓ [Wedding shopping][11450] (`11450`)
 * ✓ [Trainsorting][11456] (`11456`)
 * ✓ [Age Sort][11462] (`11462`)
+* ✓ [Commandos][11463] (`11463`)
 * ✓ [Babel][11492] (`11492`)
 * ✓ [Bubbles and Buckets][11495] (`11495`)
 
@@ -329,6 +330,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [11450]: http://uva.onlinejudge.org/external/114/11450.html
 [11456]: http://uva.onlinejudge.org/external/114/11456.html
 [11462]: http://uva.onlinejudge.org/external/114/11462.html
+[11463]: http://uva.onlinejudge.org/external/114/11463.html
 [11492]: http://uva.onlinejudge.org/external/114/11492.html
 [11495]: http://uva.onlinejudge.org/external/114/11495.html
 [11503]: http://uva.onlinejudge.org/external/115/11503.html
