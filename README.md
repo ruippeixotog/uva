@@ -93,6 +93,7 @@ The following is the list of the problems solved. Each problem id is specified b
 * ✓ [Page Hopping][821] (`821`)
 * ✓ [Continued Fractions][834] (`834`)
 * ✓ [Light and Transparencies][837] (`837`)
+* ✓ [Airline Comparison][869] (`869`)
 * ✓ [Ordering][872] (`872`)
 
 #### Volume 9
@@ -274,6 +275,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [821]: http://uva.onlinejudge.org/external/8/821.html
 [834]: http://uva.onlinejudge.org/external/8/834.html
 [837]: http://uva.onlinejudge.org/external/8/837.html
+[869]: http://uva.onlinejudge.org/external/8/869.html
 [872]: http://uva.onlinejudge.org/external/8/872.html
 [908]: http://uva.onlinejudge.org/external/9/908.html
 [910]: http://uva.onlinejudge.org/external/9/910.html
