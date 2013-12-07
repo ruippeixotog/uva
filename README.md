@@ -146,6 +146,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 104
 
 * ✓ [List of Conquests][10420] (`10420`)
+* ✗ [Sabotage][10480] (`10480`)
 
 #### Volume 105
 
@@ -310,6 +311,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10369]: http://uva.onlinejudge.org/external/103/10369.html
 [10397]: http://uva.onlinejudge.org/external/103/10397.html
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
+[10480]: http://uva.onlinejudge.org/external/104/10480.html
 [10557]: http://uva.onlinejudge.org/external/105/10557.html
 [10600]: http://uva.onlinejudge.org/external/106/10600.html
 [10651]: http://uva.onlinejudge.org/external/106/10651.html
