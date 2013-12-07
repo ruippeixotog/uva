@@ -90,6 +90,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 #### Volume 8
 
+* ✓ [Internet Bandwidth][820] (`820`)
 * ✓ [Page Hopping][821] (`821`)
 * ✓ [Continued Fractions][834] (`834`)
 * ✓ [Light and Transparencies][837] (`837`)
@@ -273,6 +274,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [750]: http://uva.onlinejudge.org/external/7/750.html
 [793]: http://uva.onlinejudge.org/external/7/793.html
 [796]: http://uva.onlinejudge.org/external/7/796.html
+[820]: http://uva.onlinejudge.org/external/8/820.html
 [821]: http://uva.onlinejudge.org/external/8/821.html
 [834]: http://uva.onlinejudge.org/external/8/834.html
 [837]: http://uva.onlinejudge.org/external/8/837.html
