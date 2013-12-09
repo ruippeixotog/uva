@@ -146,7 +146,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 104
 
 * ✓ [List of Conquests][10420] (`10420`)
-* ✗ [Sabotage][10480] (`10480`)
+* ✓ [Sabotage][10480] (`10480`)
 
 #### Volume 105
 

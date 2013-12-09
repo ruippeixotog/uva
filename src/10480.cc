@@ -14,6 +14,16 @@ int graph[MAXN][MAXN];
 int prev[MAXN], minEdge[MAXN];
 bool cutSet[MAXN];
 
+void dfsCutSet(int curr) {
+  if(cutSet[curr]) return;
+
+  cutSet[curr] = true;
+  for(int i = 0; i < (int) adjs[curr].size(); i++) {
+    int adj = adjs[curr][i];
+    if(graph[curr][adj] > 0) dfsCutSet(adj);
+  }
+}
+
 int main() {
   int n, m;
   while(cin >> n >> m && n > 0) {
@@ -54,9 +64,12 @@ int main() {
       }
     }
 
+    memset(cutSet, false, sizeof(cutSet));
+    dfsCutSet(0);
+
     for(int i = 0; i < n; i++) {
       for(int j = i + 1; j < n; j++) {
-        if((prev[i] < 0) != (prev[j] < 0) &&
+        if(cutSet[i] != cutSet[j] &&
           (graph[i][j] == 0) != (graph[j][i] == 0)) {
           cout << (i + 1) << " " << (j + 1) << endl;
         }
