@@ -5,7 +5,9 @@
 #include <vector>
 
 #define MAXM 50
-#define MAXGM (MAXM * 2 - 2)
+#define MAXGM (MAXM * 2)
+
+#define INF 0x3f3f3f3f
 
 using namespace std;
 
@@ -16,9 +18,7 @@ int graph[MAXGM][MAXGM];
 int prev[MAXGM], minEdge[MAXGM];
 bool cutSet[MAXGM];
 
-inline int out(int i) {
-  return i == 0 || i == m - 1 ? i : i + m - 1;
-}
+inline int out(int i) { return i + m; }
 
 void dfsCutSet(int curr) {
   if(cutSet[curr]) return;
@@ -33,9 +33,14 @@ void dfsCutSet(int curr) {
 int main() {
   int w;
   while(cin >> m >> w && m > 0) {
-    int gm = 2 * m - 2;
+    int gm = 2 * m;
     for(int i = 0; i < gm; i++) adjs[i].clear();
     memset(graph, 0, sizeof(graph));
+
+    int src = 0, sink = m - 1;
+    graph[src][out(src)] = graph[sink][out(sink)] = INF;
+    adjs[src].push_back(out(src));
+    adjs[sink].push_back(out(sink));
 
     for(int i = 0; i < m - 2; i++) {
       int a, c; cin >> a >> c;
@@ -52,12 +57,10 @@ int main() {
       graph[out(a)][b] = graph[out(b)][a] = c;
     }
 
-    int source = 0, sink = m - 1;
     while(true) {
-
       memset(prev, -1, sizeof(prev));
       memset(minEdge, 0x3f, sizeof(minEdge));
-      queue<int> q; q.push(source);
+      queue<int> q; q.push(src);
 
       while(!q.empty()) {
         int curr = q.front(); q.pop();
@@ -75,7 +78,7 @@ int main() {
       if(prev[sink] == -1) break;
 
       int curr = sink, next;
-      while(curr != source) {
+      while(curr != src) {
         next = curr; curr = prev[next];
         graph[curr][next] -= minEdge[sink];
         graph[next][curr] += minEdge[sink];
@@ -83,7 +86,7 @@ int main() {
     }
 
     memset(cutSet, false, sizeof(cutSet));
-    dfsCutSet(source);
+    dfsCutSet(src);
 
     int cost = 0;
     for(int i = 0; i < gm; i++) {
@@ -91,11 +94,8 @@ int main() {
 
       for(int j = 0; j < (int) adjs[i].size(); j++) {
         int adj = adjs[i][j];
-        if(!cutSet[adj] && graph[i][adj] == 0 && graph[adj][i] > 0) {
+        if(!cutSet[adj] && graph[i][adj] == 0 && graph[adj][i] > 0)
           cost += graph[adj][i];
-          if(i == source && adj == sink)
-            cost -= graph[adj][i] / 2;
-        }
       }
     }
     cout << cost << endl;
