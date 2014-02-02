@@ -232,6 +232,12 @@ The following is the list of the problems solved. Each problem id is specified b
 
 * ✓ [Scarecrow][12405] (`12405`)
 
+#### Volume 126
+
+* ✓ [Earn For Future][12614] (`12614`)
+* ✓ [Zero or One][12646] (`12646`)
+* ✓ [Cabin Baggage][12696] (`12696`)
+
 [1]: http://uva.onlinejudge.org
 [infoSE]: http://uva.onlinejudge.org/index.php?option=com_content&task=view&id=21
 [100]: http://uva.onlinejudge.org/external/1/100.html
@@ -355,3 +361,6 @@ The following is the list of the problems solved. Each problem id is specified b
 [11747]: http://uva.onlinejudge.org/external/117/11747.html
 [11790]: http://uva.onlinejudge.org/external/117/11790.html
 [12405]: http://uva.onlinejudge.org/external/124/12405.html
+[12614]: http://uva.onlinejudge.org/external/126/12614.html
+[12646]: http://uva.onlinejudge.org/external/126/12646.html
+[12696]: http://uva.onlinejudge.org/external/126/12696.html
