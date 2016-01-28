@@ -5,10 +5,6 @@ CC = g++
 
 all: $(BIN_FILES)
 
-.PHONY: check-syntax
-check-syntax:
-	$(CC) $(CC_FLAGS) -Wextra -pedantic -fsyntax-only $(CHK_SOURCES)
-
 %: src/%.cc
 	$(CC) $(CC_FLAGS) -o $@ $<
 
