@@ -151,6 +151,7 @@ The following is the list of the problems solved. Each problem id is specified b
 #### Volume 105
 
 * ✓ [XYZZY][10557] (`10557`)
+* ✓ [Data Flow][10594] (`10594`)
 
 #### Volume 106
 
@@ -320,6 +321,7 @@ The following is the list of the problems solved. Each problem id is specified b
 [10420]: http://uva.onlinejudge.org/external/104/10420.html
 [10480]: http://uva.onlinejudge.org/external/104/10480.html
 [10557]: http://uva.onlinejudge.org/external/105/10557.html
+[10594]: http://uva.onlinejudge.org/external/105/10594.html
 [10600]: http://uva.onlinejudge.org/external/106/10600.html
 [10651]: http://uva.onlinejudge.org/external/106/10651.html
 [10653]: http://uva.onlinejudge.org/external/106/10653.html
